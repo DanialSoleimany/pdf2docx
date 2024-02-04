@@ -6,8 +6,6 @@ Convert PDF files to DOCX format easily using the pdf2docx library.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -44,19 +42,3 @@ To convert a PDF file to a DOCX file, follow these steps:
     ```python
     cv.close()
     ```
-
-## Contributing
-
-Contributions are welcome! Please follow these guidelines when contributing to this project:
-
-- Fork the repository
-- Create a new branch for your feature or bug fix
-- Make your changes and ensure they are well-tested
-- Submit a pull request with a clear description of your changes
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README provides clear instructions on installation, usage, contributing, and licensing. It also includes code blocks with syntax highlighting and links to sections within the document.
