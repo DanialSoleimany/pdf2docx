@@ -1,4 +1,3 @@
-```
 # PDF to DOCX Converter
 
 Convert PDF files to DOCX format easily using the pdf2docx library.
@@ -14,7 +13,7 @@ Convert PDF files to DOCX format easily using the pdf2docx library.
 
 To install the pdf2docx library, use pip:
 
-```bash
+```
 pip install pdf2docx
 ```
 
